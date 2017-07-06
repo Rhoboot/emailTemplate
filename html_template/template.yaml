@@ -1,0 +1,5 @@
+name: Email Template (HTML)
+description: >
+        Template for package emailTemplate. This customises the basic HTML output
+to take up as little space as possible.
+create_dir: false
